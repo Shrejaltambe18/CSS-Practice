@@ -1,0 +1,22 @@
+.heading {
+        color: blue;
+        background-color: pink;
+        font-size: 20px;
+    }
+    h2{
+        color:green;
+        background-color: yellow;
+        font-size: 40px;
+    }
+
+    .stop-presenting {
+        background-color: lightskyblue;
+        padding: 5px 20px;
+        border: none;
+        border-radius: 3px;
+    }
+
+    p{
+        color: red;
+        background-color: yellowgreen;
+    }
